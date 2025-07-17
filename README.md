@@ -26,7 +26,7 @@ Tech Stack:
 🛠️ How to Run the Project Locally:
 
 1. Clone the repository:
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/pratik5005/rating_app
    cd your-repo-name
 
 2. MySQL Setup:
